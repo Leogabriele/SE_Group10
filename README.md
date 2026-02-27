@@ -1,7 +1,7 @@
 # SE Group 10
 
-# Topic
-Smart Whatsapp Assistant for Clinics
+# Smart Whatsapp Assistant for Clinics
+
 ## Problem Statement  
 
 To design and develop an intelligent WhatsApp chatbot system that automates doctor appointment booking, patient query handling, and real-time doctor notifications, thereby reducing manual effort, improving communication efficiency, and enhancing patient experience.

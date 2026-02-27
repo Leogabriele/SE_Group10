@@ -6,7 +6,9 @@
 
 To design and develop an intelligent WhatsApp chatbot system that automates doctor appointment booking, patient query handling, and real-time doctor notifications, thereby reducing manual effort, improving communication efficiency, and enhancing patient experience.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/ecg.svg" width="100%">
+</p>
 
 ## 🎯 Expected Outcome  
 

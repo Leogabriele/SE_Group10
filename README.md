@@ -6,9 +6,6 @@
 
 To design and develop an intelligent WhatsApp chatbot system that automates doctor appointment booking, patient query handling, and real-time doctor notifications, thereby reducing manual effort, improving communication efficiency, and enhancing patient experience.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/ecg.svg" width="100%">
-</p>
 
 ## 🎯 Expected Outcome  
 
@@ -22,7 +19,6 @@ The Smart WhatsApp Assistant will:
 - Improve response time and overall patient satisfaction.
 - Minimize scheduling errors and double bookings.
 
----
 
 ## 🧠 Hypothesis  
 
@@ -35,7 +31,6 @@ If clinics implement an AI-powered WhatsApp assistant for appointment management
 
 Because automation ensures 24/7 availability, faster communication, and reduced human error.
 
----
 
 ## 🛠 Tech Stack  
 
@@ -46,7 +41,6 @@ Because automation ensures 24/7 availability, faster communication, and reduced 
 - **Cloud Storage:** Firebase Storage *(Managing and hosting files if needed)*  
 - **Deployment:** Firebase Hosting / Vercel (Frontend) and AWS / Heroku (Backend)  
 
----
 
 ## 💻 Technologies  
 
@@ -54,7 +48,6 @@ Because automation ensures 24/7 availability, faster communication, and reduced 
 |-------------|------------|-------------|--------------------|-------------|
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb) | ![Firebase Authentication](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase) | ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal) |
 
----
 
 ## 🔗 APIs & Tools  
 
@@ -65,7 +58,6 @@ Because automation ensures 24/7 availability, faster communication, and reduced 
 |  | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira) |
 |  | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code) |
 
----
 
 ## 👥 Roles and Responsibilities  
 

@@ -40,7 +40,7 @@ Because automation ensures 24/7 availability, faster communication, and reduced 
 - **Database:** MongoDB *(Storing patient and appointment data)*  
 - **Cloud Storage:** Firebase Storage *(Managing and hosting files if needed)*  
 - **Deployment:** Firebase Hosting / Vercel (Frontend) and AWS / Heroku (Backend)
-- **API:**Whatsapp API
+- **API:** Whatsapp API
 
 
 ## 💻 Technologies  

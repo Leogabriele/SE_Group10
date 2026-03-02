@@ -39,7 +39,8 @@ Because automation ensures 24/7 availability, faster communication, and reduced 
 - **Authentication:** Firebase Authentication *(Secure login and account management)*  
 - **Database:** MongoDB *(Storing patient and appointment data)*  
 - **Cloud Storage:** Firebase Storage *(Managing and hosting files if needed)*  
-- **Deployment:** Firebase Hosting / Vercel (Frontend) and AWS / Heroku (Backend)  
+- **Deployment:** Firebase Hosting / Vercel (Frontend) and AWS / Heroku (Backend)
+- **API:**Whatsapp API
 
 
 ## 💻 Technologies  
@@ -61,7 +62,7 @@ Because automation ensures 24/7 availability, faster communication, and reduced 
 
 ## 👥 Roles and Responsibilities  
 
-### **Member 1 (Team Lead)**  
+### **Rithilka Mohan Dass(Team Lead)**  
 - **Role:** Project Management, Frontend Development  
 - **Responsibilities:**  
   - Oversee project progress and task allocation  
@@ -71,7 +72,7 @@ Because automation ensures 24/7 availability, faster communication, and reduced 
 
 ---
 
-### **Member 2**  
+### **Janavi Iyengar**  
 - **Role:** Frontend Developer, UI Design  
 - **Responsibilities:**  
   - Design and implement user-friendly UI  
@@ -80,7 +81,7 @@ Because automation ensures 24/7 availability, faster communication, and reduced 
 
 ---
 
-### **Member 3**  
+### **Srusti Ponnaganti**  
 - **Role:** Backend Developer, Data Fetching  
 - **Responsibilities:**  
   - Develop backend APIs  
@@ -89,7 +90,7 @@ Because automation ensures 24/7 availability, faster communication, and reduced 
 
 ---
 
-### **Member 4**  
+### **Anannya Masirkar**  
 - **Role:** Backend Developer, Data Designing  
 - **Responsibilities:**  
   - Design and manage database architecture  
